@@ -1,4 +1,4 @@
-package ArrayPractice;
+package FundamentalAlgorithmProblems;
 public class Palindrome {
 
 	
